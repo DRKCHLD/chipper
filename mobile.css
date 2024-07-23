@@ -1,0 +1,270 @@
+@media (max-width:500px) {
+   
+
+    label {
+        width: 30%;
+    }
+
+    nav {
+        position: fixed;
+        z-index: 1000;
+        top: 0;
+        left: 0;
+    }
+
+    .hero-section {
+        margin-top: 4.8rem;
+    }
+
+    .hero {
+        display: none;
+    }
+
+    .hero-container {
+        width: 90%;
+    }
+
+    .hero-text-container h1 {
+        font-size: 4.5rem;
+    }
+
+    .hero-text-container {
+        width: 100%;
+    }
+
+    .hero-text-container p {
+        font-size: 1.8rem;
+    }
+
+    .figures {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+
+    .section-two {
+        flex-direction: column;
+        font-size: 2.5rem;
+        padding: 2% 0 7% 0;
+    }
+
+    .send-text-container {
+        width: 90%;
+    }
+
+    .send-text-container h1 {
+        margin-bottom: 2rem;
+    }
+
+    .cash {
+        margin-left: 1%;
+    }
+
+    .send-money {
+        width: 80%;
+    }
+
+    .section-three {
+        justify-content: space-around;
+        overflow: hidden;
+        position: relative;
+    }
+
+
+    .stream-text-container {
+        padding: 15% 0 15% 0;
+        width: 90%;
+        font-size: 2rem;
+    }
+
+    .stream-text-container p {
+        font-size: 2rem;
+        width: 50%;
+    }
+
+    .stream-text-container h1 {
+        width: 80%;
+    }
+    
+    .burna {
+   position: absolute;
+   width: 86%;
+   left: 28rem;  
+    }
+
+    .section-four {
+        font-size: 1.8rem;
+        padding-left: 4%;
+        padding-right: 3%;
+    }
+
+    .connection-text-container p {
+        font-size: 1.7rem;
+        
+    }
+
+    .stats {
+        flex-direction: column;
+        gap: 6rem;
+    }
+
+    .community-power {
+        width: 100%;
+        font-size: 1.8rem;
+    }
+
+    .community-power p {
+        width: 100%;
+    }
+
+    .ratings h1 {
+        font-size: 5rem;
+    }
+
+    .parent-comment-container {
+        width: 100%;
+    }
+
+    .top-comment {
+        font-size: 1.5rem;
+        width: 100%;
+    }
+
+        .get-help {
+            align-items: left;
+            /* background-size: 380%; */
+            height: 80vh;
+            padding: 2% 0 0 6%;
+        }
+
+        .get-help h1 {
+            text-align: left;
+            margin-bottom: 3rem;
+        }
+    .help-container {
+        width: 80%;
+        font-size: 2.5rem;
+        
+    }
+
+    .social-media-container img {
+        width: 30%;
+       
+    }
+
+    .social-media-container {
+        display: grid;
+     grid-template-columns: repeat(3, 13rem);
+     gap: 3rem;   
+    }
+
+    .featured {
+        flex-direction: column;
+       padding-left: 5%;
+       gap: 3rem;
+       
+    }
+
+    .feature-text-container {
+        width: 90%;
+    }
+
+    .feature-text-container h1 {
+        font-size: 4rem;
+    
+    }
+    
+    .feature-text-container p {
+        
+        font-size: 1.8rem;
+    }
+
+    .global-logos {
+        margin-top: 3rem;
+        align-content: center;
+        justify-items: center;
+        width: 90%;
+        gap: 6rem;
+    }
+
+    .global-stocks {
+        flex-direction: column-reverse;
+    }
+
+    .global-img {
+        width: 80%;
+    }
+
+    .football-stars {
+        flex-direction: column;
+        padding-left: 5%;
+    }
+
+    .culture h1 {
+        font-size: 2.5rem;
+    }
+
+    .football img {
+        width: 45%;
+    }
+
+    .btn-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .blob2 {
+        right: -1rem;
+        bottom: 8rem;
+    }
+
+
+    .side-footer-container {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8rem;
+        
+    }
+
+    .left-footer ul {
+        font-size: 1.6rem;
+    }
+
+    .right-footer {
+        align-items:flex-start ;
+    }
+
+    .right-footer h1 {
+        margin-bottom: 4rem;
+    }
+
+    .right-footer p {
+        width: 50%;
+        font-size: 2rem;
+        line-height: 4rem;
+    }
+
+    .right-footer span {
+        border-left: none;
+        font-size: 1.3rem;
+    }
+
+    
+
+    .footer {
+        padding: 6% 8% 6% 5%;
+        /* height: 100vh; */
+    }
+
+    .under-footer {
+        flex-direction: column;
+        gap: 3rem;
+        font-size: 1.7rem;
+        align-items: flex-start;
+    }
+
+    .follow-us .logo {
+        
+        justify-content: left;
+    }
+   
+}
